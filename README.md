@@ -128,11 +128,11 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virusvickee&show_icons=true&locale=en&layout=compact&theme=radical" alt="virusvickee" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=virusvickee&show_icons=true&locale=en&layout=compact&theme=radical" alt="virusvickee" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=virusvickee&show_icons=true&locale=en&theme=radical" alt="virusvickee" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=virusvickee&show_icons=true&locale=en&theme=radical" alt="virusvickee" />
 </p>
 
 <p align="center">
