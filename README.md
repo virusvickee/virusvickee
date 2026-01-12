@@ -82,7 +82,7 @@
 <p align="center">
 <a href="https://x.com/vikasun59818952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vikas-uniyal-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:vikasuniyalcsa@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="mailto:vikasuniyalcsa@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
