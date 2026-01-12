@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=virusvickee&label=Profile%20views&color=0e75b6&style=flat" alt="virusvickee" />
+  <img src="https://camo.githubusercontent.com/87b837b0f2f78f529070f777be56c418cdb24441b5b86d0b7bdc7c5b67c9e39a/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d766972757376696b6565266c6162656c3d50726f66696c652532307669657773266c6f636f6c6f723d306537356236267374796c653d666c6174" alt="virusvickee" />
   <img src="https://img.shields.io/github/followers/virusvickee?label=Followers&style=social" alt="GitHub followers" />
 </p>
 
