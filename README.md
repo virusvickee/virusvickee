@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=virusvickee&theme=radical&no-frame=true&row=3&column=3&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="virusvickee" />
+    <img src="https://github-profile-trophy.vercel.app/?username=virusvickee&theme=dracula&no-frame=false&row=2&column=3" alt="virusvickee" />
   </a> 
 </p>
 
@@ -128,15 +128,15 @@
 <h3 align="center">📊 GitHub Statistics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=virusvickee&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="virusvickee" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virusvickee&show_icons=true&locale=en&layout=compact&theme=radical" alt="virusvickee" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=virusvickee&show_icons=true&locale=en&theme=tokyonight" alt="virusvickee" />
+<img src="https://github-readme-stats.vercel.app/api?username=virusvickee&show_icons=true&locale=en&theme=radical" alt="virusvickee" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=virusvickee&theme=tokyonight" alt="virusvickee" />
+<img src="https://streak-stats.demolab.com/?user=virusvickee&theme=radical" alt="virusvickee" />
 </p>
 
 ---
