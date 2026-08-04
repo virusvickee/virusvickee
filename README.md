@@ -24,8 +24,14 @@ Independently shipping production web apps end-to-end — frontend, backend, dat
 </p>
 
 <p>
-<code>Claude API</code> · <code>OpenAI API</code> · <code>Gemini</code> · <code>LangChain</code> · <code>RAG</code> · <code>n8n</code> · <code>Claude Code + MCP + Cursor workflow</code>
+<img src="https://img.shields.io/badge/Claude_API-CC785C?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-2EA043?style=flat-square" />
 </p>
+<sub>Workflow: Claude Code + MCP + Cursor</sub>
 
 <br>
 
