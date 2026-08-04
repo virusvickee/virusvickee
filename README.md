@@ -1,47 +1,80 @@
 <div align="center">
 
-# Vikas Uniyal
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Vikas+Uniyal;Full+Stack+Developer;AI-Integrated+Systems" alt="Typing SVG" />
 
-**Full Stack Developer — AI-Integrated Systems**
-Dehradun, India
+<sub>📍 Dehradun, India &nbsp;·&nbsp; 🟢 Open to Work</sub>
 
-Independently shipping production web apps end-to-end — frontend, backend, database, deployment — with LLMs woven into the workflow, not bolted on.
+<br><br>
 
-[Portfolio](https://vikasdev-in.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vikas-uniyal-/) · [Email](mailto:vikasuniyalcsa@gmail.com)
+<a href="https://vikasdev.in"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vikas-uniyal-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vikasuniyalcsa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/virusvickee"><img src="https://img.shields.io/badge/@virusvickee-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-## What I do
+Independently shipping production web apps end-to-end — frontend, backend, database, deployment — with LLMs woven into the workflow, not bolted on. 5+ applications live, owning the full SDLC solo.
 
-5+ production applications shipped solo, owning the full SDLC — planning, API design, frontend, SEO/performance, testing, deployment. Backend in Python/FastAPI and Node.js/Express, frontend in React and Next.js 14. LLM integrations (Claude, OpenAI, Gemini, LangChain) built into real product features, not demos. I work in an AI-assisted workflow using Claude Code, MCP, and Cursor to move faster without cutting corners.
+### 🛠️ Stack
 
-## Featured work
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,fastapi,nodejs,mongodb,postgres,redis,docker,vercel,aws&theme=dark" />
+</p>
 
-**[Parvatpath](https://parvatpath.com)** — Booking platform for Uttarakhand trekking routes. Built and deployed independently for a live client: JWT-secured REST APIs, Razorpay payments, an admin CMS for tour operators, and technical SEO across the whole Next.js App Router site.
+<p>
+<code>Claude API</code> · <code>OpenAI API</code> · <code>Gemini</code> · <code>LangChain</code> · <code>RAG</code> · <code>n8n</code> · <code>Claude Code + MCP + Cursor workflow</code>
+</p>
 
-**[CareerPulse](https://career-pulse-c1a2.vercel.app)** — Real-time job board. OTP auth, candidate workflows, and WebSocket-driven chat backed by Redis caching for sub-100ms response times.
+<br>
 
-**[FreelanceX](https://freelance-x-platform.vercel.app)** — Freelance marketplace, 44 pages, zero build errors. Milestone contracts, escrow payments (Razorpay + Stripe), dual-sided reviews, and 15+ JWT-secured endpoints with role-based access control.
+## 🚀 Featured work
 
-**Client engagements** — SpendWise, an AI spend-audit tool built on Claude API for Credex; a tournament draw engine on React/Supabase/Stripe for Digital Heroes; a nested-tags tree tool on FastAPI/PostgreSQL for AIMonk Labs.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Stack
+**🏔️ [Parvatpath](https://parvatpath.com)**
+Uttarakhand trek booking platform. Live client product — JWT auth, Razorpay, admin CMS, full technical SEO.
 
-`React` `Next.js 14` `TypeScript` `Tailwind` · `FastAPI` `Node.js` `WebSockets` `JWT/OAuth2` · `MongoDB` `PostgreSQL` `MySQL` `Redis` · `Claude API` `OpenAI API` `LangChain` `RAG` `n8n` · `Vercel` `Render` `AWS` `Docker`
+</td>
+<td width="33%" valign="top">
 
-## GitHub activity
+**💼 [CareerPulse](https://career-pulse-c1a2.vercel.app)**
+Real-time job board. OTP auth, WebSocket chat, Redis caching for sub-100ms responses.
+
+</td>
+<td width="33%" valign="top">
+
+**🧑‍💻 [FreelanceX](https://freelance-x-platform.vercel.app)**
+Freelance marketplace, 44 pages. Escrow payments, milestone contracts, RBAC across 15+ endpoints.
+
+</td>
+</tr>
+</table>
+
+**Client engagements:** SpendWise — AI spend-audit tool on Claude API (*Credex*) · Tournament draw engine on React/Supabase/Stripe (*Digital Heroes*) · Nested-tags tree tool on FastAPI/PostgreSQL (*AIMonk Labs*)
+
+<br>
+
+## 📊 GitHub activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=virusvickee&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=virusvickee&layout=compact&theme=graywhite&hide_border=true&hide_title=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=virusvickee&show_icons=true&theme=github_dark&hide_border=true&title_color=2EA043&icon_color=2EA043" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=virusvickee&layout=compact&theme=github_dark&hide_border=true&title_color=2EA043" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=virusvickee&theme=github-dark-blue&hide_border=true&background=0d1117&ring=2EA043&fire=2EA043&currStreakLabel=2EA043" />
 </div>
 
 <br>
 
 <div align="center">
 
-Open to full-time remote roles and freelance engagements — [reach out](mailto:vikasuniyalcsa@gmail.com).
+💬 Open to full-time remote roles and freelance engagements — [let's talk](mailto:vikasuniyalcsa@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=virusvickee&color=2EA043&style=flat-square&label=Profile+Views" />
 
 </div>
