@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Vikas+Uniyal;Full+Stack+Developer;AI-Integrated+Systems" alt="Typing SVG" />
 <sub>📍 Dehradun, India &nbsp;·&nbsp; 🟢 Open to Work</sub>
 <br><br>
-<a href="https://vikasdev.in"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" /></a>
+<a href="vikasdev-in.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vikas-uniyal-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vikasuniyalcsa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/virusvickee"><img src="https://img.shields.io/badge/@virusvickee-181717?style=flat-square&logo=github&logoColor=white" /></a>
