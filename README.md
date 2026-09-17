@@ -3,15 +3,16 @@
 <br>
 <sub>📍 Dehradun, India &nbsp;·&nbsp; 🟢 Open to Work</sub>
 <br><br>
-<a href="https://vikasdev-in.vercel.app"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" alt="Portfolio" /></a>
+<a href="https://vikasdev.in"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vikas-uniyal-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/vikasun59818952"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter) @vikasun59818952" /></a>
 <a href="mailto:vikasuniyalcsa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/virusvickee"><img src="https://img.shields.io/badge/@virusvickee-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub @virusvickee" /></a>
 </div>
 
 <br>
 
-Independently shipping production web apps end-to-end — frontend, backend, database, deployment — with LLMs woven into the workflow, not bolted on. Ten live products, full SDLC owned solo, including delivery for **Digital Heroes**, **AIMonk Labs** and **Credex**.
+Full-stack engineer delivering production-grade web applications end-to-end — architecture, backend, frontend, and deployment — with AI integrated as core infrastructure, not an afterthought. Ten shipped products, delivered solo.
 
 ### 🛠️ Stack
 
@@ -47,7 +48,7 @@ Uttarakhand trek booking platform, live on its own domain. JWT auth, Razorpay pa
 <td width="33%" valign="top">
 <b>🔥 <a href="https://hive-learn.lovable.app">Skillhearth</a></b><br>
 <sub>2026 · React, Supabase, PostgreSQL</sub><br><br>
-Skill-swap platform — trade skills instead of money. Match, schedule sessions, chat scoped to accepted swaps, social feed with reviews, Row-Level Security on every table.
+Skill-swap platform — trade skills instead of money. Match, schedule sessions, chat scoped to accepted swaps, social feed with reviews and mutual connections, report/block moderation, Row-Level Security on every table.
 </td>
 <td width="33%" valign="top">
 <b>🧑‍💻 <a href="https://freelance-x-platform.vercel.app">FreelanceX</a></b><br>
@@ -79,7 +80,7 @@ Student records, course registration and faculty assignment. Role-based dashboar
 <table>
 <tr>
 <td width="33%" valign="top">
-<b>⛳ Golf subscription platform</b><br>
+<b>⛳ <a href="https://golf-draw-platform-gamma.vercel.app">Golf subscription platform</a></b><br>
 <sub><i>Digital Heroes</i> · Supabase, Stripe</sub><br><br>
 Full-stack subscription platform built, deployed and delivered inside a 2-day deadline.
 </td>
