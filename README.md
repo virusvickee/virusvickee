@@ -3,7 +3,7 @@
 <br>
 <sub>📍 Dehradun, India &nbsp;·&nbsp; 🟢 Open to Work</sub>
 <br><br>
-<a href="https://vikasdev-in.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" alt="Portfolio" /></a>
+<a href="[https://vikasdev-in.vercel.app/)](https://vikasdev-in.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-2EA043?style=flat-square&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/vikas-uniyal-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/vikasun59818952"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter) @vikasun59818952" /></a>
 <a href="mailto:vikasuniyalcsa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
